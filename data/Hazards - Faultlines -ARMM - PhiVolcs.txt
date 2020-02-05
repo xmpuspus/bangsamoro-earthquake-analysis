@@ -1,0 +1,7 @@
+Title:	Active Faultlines and Trenches in ARMM
+File name:	Hazards - Faultlines -ARMM - PhiVolcs.shp
+Source agency:	PhiVolcs		
+Date:	2018
+Reference: http://phivolcs.gov.ph
+
+Description: Lines depicting faultlines and trenches in ARMM
